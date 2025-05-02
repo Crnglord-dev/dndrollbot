@@ -5,7 +5,7 @@ import telebot
 from telebot import types
 
 # Retrieve the Telegram bot token from environment variable
-TOKEN = "7903122676:AAGgsjdr9buJebHcd6MDjRhKwzjCyMlBDIw"
+TOKEN = "**********************"
 bot = telebot.TeleBot(TOKEN)
 
 # Supported dice types
